@@ -21,11 +21,6 @@ You can to show request and response documentation in {host}:{port}/__admin/mapp
 # EXAMPLES
 This directory mappings content as files examples. This file about your mock request and response. You can use it to create a file example in directory mappings or in subdirectory his. This project content files examples but you can create will starting in [documentation](http://wiremock.org/docs/api/). 
 
-# TESTS
-You can request your mock in curl respectiving a roles this your example. 
-{host}:{port}/{path}
-(e.g. curl --location --request GET 'http://localhost:8080/item/2090111?show_factsheet=true')
-
 # TUTORIAL
 http://wiremock.org/docs/running-standalone/
 

@@ -1,0 +1,21 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://cliente.bean.master.sigep.bsb.correios.com.br/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:consultaCEPResponse>
+         <bairro>Alto do Bairro</bairro>
+         <cep>02020100</cep>
+         <cidade>Cidade do Sul</cidade>
+         <complemento></complemento>
+         <end>Nome da Rua</end>
+         <uf>SP</uf>
+         <unidadesPostagem>
+            <diretoriaRegional>Sudeste</diretoriaRegional>
+            <endereco>Endereco da Unidade</endereco>
+            <id>123</id>
+            <nome>Nome da Unidade de Postagem</nome>
+            <status>Aberta</status>
+            <tipo>1</tipo>
+         </unidadesPostagem>
+      </web:consultaCEPResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

@@ -1,0 +1,20 @@
+{
+   "request":{
+      "url":"/SigepMasterJPA/AtendeClienteService/AtendeCliente",
+      "method":"POST",
+      "bodyPatterns" : [
+         { "matchesXPath": {
+               "expression": "//cep/text()",
+               "contains": "02020999" 
+            }
+         }
+      ]
+   },
+   "response":{
+      "status":200,
+      "bodyFileName":"/soap-project/response-not-found-cep.xml",
+      "headers":{
+         
+      }
+   }
+}

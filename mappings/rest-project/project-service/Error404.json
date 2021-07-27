@@ -1,0 +1,13 @@
+{
+	"request": {
+		"method": "GET",
+		"urlPattern": "/service/30"
+	},
+	"response": {
+		"status": 404,
+		"jsonBody": {"status":"Error","message":"not found"},
+		"headers": {
+		  "Content-Type": "application/json"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"request": {
+		"method": "GET",
+		"url": "/service/item/2090111?show_factsheet=true"
+	},
+	"response": {
+		"status": 200,
+		"fixedDelayMilliseconds": 3000,
+		"bodyFileName":"/rest-project/project-service/responseGetItem.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

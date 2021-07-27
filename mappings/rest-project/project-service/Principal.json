@@ -1,0 +1,15 @@
+{
+	"request": {
+		"method": "GET",
+		"urlPattern": "/service/10"
+	},
+	"response": {
+		"status": 200,
+		"jsonBody": {
+			"pay" : false
+		},
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}

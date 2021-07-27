@@ -1,0 +1,18 @@
+{
+   "request":{
+      "url":"/SigepMasterJPA/AtendeClienteService/AtendeCliente",
+      "method":"POST",
+      "bodyPatterns" : [
+         { "equalToXml": "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:cli=\"http://cliente.bean.master.sigep.bsb.correios.com.br/\">\n   <soapenv:Header/>\n   <soapenv:Body>\n      <cli:buscaCliente>\n         <!--Optional:-->\n         <idContrato>123</idContrato>\n         <!--Optional:-->\n         <idCartaoPostagem>123</idCartaoPostagem>\n         <!--Optional:-->\n         <usuario>user</usuario>\n         <!--Optional:-->\n         <senha>xpto</senha>\n      </cli:buscaCliente>\n   </soapenv:Body>\n</soapenv:Envelope>"
+            
+         }
+      ]
+   },
+   "response":{
+      "status":200,
+      "bodyFileName":"/soap-project/response-find-client.xml",
+      "headers":{
+         
+      }
+   }
+}

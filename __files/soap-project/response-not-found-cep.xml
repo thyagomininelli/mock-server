@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://cliente.bean.master.sigep.bsb.correios.com.br/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:consultaCEPResponse>CEP Inexistente</web:consultaCEPResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

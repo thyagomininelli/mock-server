@@ -1,0 +1,500 @@
+{
+    "meta": {
+        "version": "2.0.360"
+    },
+    "item": {
+        "attributes": null,
+        "categories": [
+            {
+                "composite_name": "BB|Bebê",
+                "id": "BB",
+                "name": "Bebê",
+                "subcategories": [
+                    {
+                        "composite_name": "BECO|Bebê Conforto",
+                        "id": "BECO",
+                        "name": "Bebê Conforto",
+                        "url": "bebe-conforto/bebe/s/bb/beco/"
+                    },
+                    {
+                        "composite_name": "BBBU|Produtos Burigotto",
+                        "id": "BBBU",
+                        "name": "Produtos Burigotto",
+                        "url": "produtos-burigotto/bebe/s/bb/bbbu/"
+                    },
+                    {
+                        "composite_name": "CADA|Cadeira para Auto",
+                        "id": "CADA",
+                        "name": "Cadeira para Auto",
+                        "url": "cadeira-para-auto/bebe/s/bb/cada/"
+                    },
+                    {
+                        "composite_name": "CARR|Produtos para Passeio com o Bebê",
+                        "id": "CARR",
+                        "name": "Produtos para Passeio com o Bebê",
+                        "url": "produtos-para-passeio-com-o-bebe/bebe/s/bb/carr/"
+                    }
+                ],
+                "url": "bebe/l/bb/"
+            }
+        ],
+        "is_delivery_available": true,
+        "sku": "2090111",
+        "type": "bundle",
+        "variations": [
+            {
+                "attributes": null,
+                "brand": "burigotto",
+                "bundles": [
+                    {
+                        "brand": "Burigotto",
+                        "list_price": "279.00",
+                        "medias": {
+                            "audios": null,
+                            "images": [
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/f63d1cc6a307cce33d131fae1e32f465.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/00e79e390d8820a2ae06c606c78fb4c7.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/068139a804b3d61a975088d3aa22fa37.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/626effd3753843cfc34c64e21a0b2ea6.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/42aa5983bc775efb796d945715657cd5.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/16be413394a563c136bdbac1d7d16b93.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/d08525cbab912ce9cd52182f1a0fd957.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/25f0eec50355c92449c101dcf415d80b.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/f6e214b47216dc263ed855d3aaa5d5bb.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/4286117ae1a721491f2cf422ab512e54.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/25ab61ab5b2a28bf092527e343503bc5.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/c33c8c1308e82081b28b7b826bce6a3a.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/46e56e02ecdac2979f1c1bab11084306.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/cd20d1a2fe7d7289bf1e9f423622a752.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/5650b60cbfacb9951729fb06a4065664.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/633173d00406cab6814411d355ca2699.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/4b8e4489f8f2fb92826d958ae652225c.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/8fc69b15cd3efe1b4a1a725187c9b349.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/25a694a7d17824b09ec73a56f0320718.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/2ee4620eb1602525af54733f6b0df68e.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13-kg/magazineluiza/176608400/aa57d34e29014ea132f7446eb56a1e3a.jpg"
+                            ],
+                            "podcasts": null,
+                            "videos": [
+                                "KvhUhfhz9-8"
+                            ]
+                        },
+                        "price": "179.00",
+                        "quantity": 1,
+                        "reference": "para Crianças até 13 Kg",
+                        "seller": "magazineluiza",
+                        "seller_description": "Magazine Luiza",
+                        "sku": "176608400",
+                        "title": "Bebê Conforto Burigotto Touring SE Cinza"
+                    },
+                    {
+                        "brand": "burigotto",
+                        "list_price": "99.00",
+                        "medias": {
+                            "audios": null,
+                            "images": [
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/base-de-cadeira-para-auto-burigotto-touring-cinza/magazineluiza/201746100/5b1d0e6d6f57f78849bcb85ccaaaefc1.jpg",
+                                "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/base-de-cadeira-para-auto-burigotto-touring-cinza/magazineluiza/201746100/f3d9c8c4c1d08fc788f0cd5730bda04a.jpg"
+                            ],
+                            "podcasts": [
+                                "https://pis.static-tst.magazineluiza.com.br/magazineluiza/podcasts/201746100/de5e3fa3904064b02fbc34a511fecfe2.mp3"
+                            ],
+                            "videos": null
+                        },
+                        "price": "95.00",
+                        "quantity": 1,
+                        "reference": "Burigotto Touring Cinza",
+                        "seller": "magazineluiza",
+                        "seller_description": "Magazine Luiza",
+                        "sku": "201746100",
+                        "title": "Base de Cadeira para Auto "
+                    }
+                ],
+                "dimensions": {
+                    "depth": 0.46,
+                    "height": 0.39,
+                    "weight": 0,
+                    "width": 0.44
+                },
+                "ean": null,
+                "factsheets": [
+                    {
+                        "sheet": [
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "A cadeirinha deve ser colocada no banco de trás, voltada para frente. Certifique-se que o dispositivo está instalado corretamente de acordo com as instruções de seu manual. O cinto da cadeirinha deve passar pelos ombros e quadril da criança. Esta cadeira para bebê possui estrutura em plástico super leve e resistente, cinto de segurança com protetor acolchoado para os ombros, capota removível e alça de apoio para transporte. Tudo isso proporciona mais segurança e conforto para seu bebê. Todas as cadeiras para automóveis só podem ser instaladas no veículo com o cinto de 3 pontos. Depois de uma colisão, independente do grau de impacto, as cadeirinhas devem ser trocadas. Isto vale inclusive para situações em que, aparentemente, não houve dano ao dispositivo."
+                                            }
+                                        ],
+                                        "key_name": "Apresentação do produto"
+                                    }
+                                ],
+                                "display_name": "Apresentação",
+                                "slug": "apresentacao"
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Marca",
+                                                "value": "Burigotto"
+                                            },
+                                            {
+                                                "key_name": "Referência",
+                                                "value": "IXAU3030CZ17."
+                                            },
+                                            {
+                                                "key_name": "Cor",
+                                                "value": "Cinza"
+                                            },
+                                            {
+                                                "key_name": "Modelo",
+                                                "value": "Touring SE"
+                                            }
+                                        ],
+                                        "key_name": "Informações técnicas"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "INOR. L.M-DRC.001/08."
+                                            }
+                                        ],
+                                        "key_name": "Certificação do INMETRO"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Peso suportado",
+                                                "value": "até 13 Kg"
+                                            }
+                                        ],
+                                        "key_name": "Indicado para"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Sim"
+                                            }
+                                        ],
+                                        "key_name": "Aprovado pelo INMETRO"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "carro"
+                                            },
+                                            {
+                                                "value": "passeio"
+                                            }
+                                        ],
+                                        "key_name": "Utilização"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Base",
+                                                "value": "sim  estrutura em plástico de engenharia, leve e resistente."
+                                            }
+                                        ],
+                                        "key_name": "Material"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Regulável",
+                                                "value": "sim"
+                                            },
+                                            {
+                                                "key_name": "Quantidade de pontos",
+                                                "value": "03 pontos com protetor acolchoado para os ombros."
+                                            }
+                                        ],
+                                        "key_name": "Cinto de segurança"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "para a cabeça (removível)."
+                                            }
+                                        ],
+                                        "key_name": "Protetores"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Removível"
+                                            }
+                                        ],
+                                        "key_name": "Capota"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Sim  de apoio para transporte."
+                                            }
+                                        ],
+                                        "key_name": "Alça"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Peso do produto",
+                                                "value": "2,04 kg."
+                                            }
+                                        ],
+                                        "key_name": "Peso aproximado"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Largura",
+                                                "value": "43 cm."
+                                            },
+                                            {
+                                                "key_name": "Altura",
+                                                "value": "51 cm."
+                                            },
+                                            {
+                                                "key_name": "Profundidade",
+                                                "value": "62,5 cm."
+                                            }
+                                        ],
+                                        "key_name": "Dimensões do produto"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Prazo",
+                                                "value": "01 ano (3 meses de garantia legal e mais 9 meses de garantia especial concedida pelo fabricante)."
+                                            }
+                                        ],
+                                        "key_name": "Garantia"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "concha arredondada para balanço.  "
+                                            }
+                                        ],
+                                        "key_name": "Design"
+                                    }
+                                ],
+                                "display_name": "Ficha-Técnica",
+                                "slug": "ficha-tecnica"
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "- 01 Cadeira para auto."
+                                            }
+                                        ],
+                                        "key_name": "Itens inclusos"
+                                    }
+                                ],
+                                "display_name": "Itens Inclusos",
+                                "slug": "itens-inclusos"
+                            }
+                        ],
+                        "sku": "176608400"
+                    },
+                    {
+                        "sheet": [
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Prático e eficiente sistema de travamento das cadeiras Touring e Touring SE, de fácil instalação no veículo onde pode permanecer, facilitando encaixar e retirar a cadeira do bebê."
+                                            }
+                                        ],
+                                        "key_name": "Apresentação do produto"
+                                    }
+                                ],
+                                "display_name": "Apresentação",
+                                "slug": "apresentacao"
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Marca",
+                                                "value": "Burigotto"
+                                            },
+                                            {
+                                                "key_name": "Referência",
+                                                "value": "IXAP0349CZ."
+                                            },
+                                            {
+                                                "key_name": "Cor",
+                                                "value": "Cinza"
+                                            },
+                                            {
+                                                "key_name": "Modelo",
+                                                "value": "IXAP0349CZ"
+                                            }
+                                        ],
+                                        "key_name": "Informações técnicas"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Estrutura em plástico de engenharia, leve e resistente."
+                                            }
+                                        ],
+                                        "key_name": "Material"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Cadeiras Touring e Touring SE."
+                                            }
+                                        ],
+                                        "key_name": "Indicado para"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "INOR. L.M-DRC.001/08."
+                                            }
+                                        ],
+                                        "key_name": "Certificação do INMETRO"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Peso do produto",
+                                                "value": "2,3 kg."
+                                            },
+                                            {
+                                                "key_name": "Peso do produto com embalagem",
+                                                "value": "2,9 kg."
+                                            }
+                                        ],
+                                        "key_name": "Peso"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Largura",
+                                                "value": "42,3 cm."
+                                            },
+                                            {
+                                                "key_name": "Altura",
+                                                "value": "21 cm."
+                                            },
+                                            {
+                                                "key_name": "Profundidade",
+                                                "value": "55,8 cm."
+                                            }
+                                        ],
+                                        "key_name": "Dimensões aproximadas"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "key_name": "Prazo",
+                                                "value": "01 ano (3 meses de garantia legal e mais 9 meses de garantia especial concedida pelo fabricante)."
+                                            }
+                                        ],
+                                        "key_name": "Garantia"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Fechada, revestida com EVA para proteger o banco do carro."
+                                            }
+                                        ],
+                                        "key_name": "Base"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Carro."
+                                            }
+                                        ],
+                                        "key_name": "Utilização"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Sim."
+                                            }
+                                        ],
+                                        "key_name": "Aprovado pelo INMETRO"
+                                    },
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "Imagens meramente ilustrativas. Refere-se apenas a base. Os demais itens e objetos de decoração são vendidos separadamente."
+                                            }
+                                        ],
+                                        "key_name": "Atenção"
+                                    }
+                                ],
+                                "display_name": "Ficha-técnica",
+                                "slug": "ficha-tecnica"
+                            },
+                            {
+                                "elements": [
+                                    {
+                                        "elements": [
+                                            {
+                                                "value": "- 01 Base de cadeira para auto."
+                                            }
+                                        ],
+                                        "key_name": "Itens inclusos"
+                                    }
+                                ],
+                                "display_name": "Itens inclusos",
+                                "slug": "itens-inclusos"
+                            }
+                        ],
+                        "sku": "201746100"
+                    }
+                ],
+                "id": "209011100",
+                "medias": {
+                    "audios": null,
+                    "images": [
+                        "https://pis.static-tst.magazineluiza.com.br/{w}x{h}/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13kg-base-de-cadeira-para-auto/magazineluiza/209011100/1d770700efacfec50700496f90f84845.jpg"
+                    ],
+                    "podcasts": null,
+                    "videos": null
+                },
+                "reference": "para Crianças até 13Kg + Base de Cadeira para Auto",
+                "review_count": 0,
+                "review_score": 0,
+                "sellers": [
+                    {
+                        "badges": null,
+                        "benefits": [],
+                        "best_installment_plan": null,
+                        "best_price": null,
+                        "delivery": {
+                            "description": "Magalu",
+                            "id": "magazineluiza"
+                        },
+                        "description": "Magazine Luiza",
+                        "discounts": null,
+                        "id": "magazineluiza",
+                        "informations": null,
+                        "list_price": "378.00",
+                        "price": "274.00"
+                    }
+                ],
+                "title": "Bebê Conforto Burigotto Touring SE Cinza",
+                "url": "https://www.magazineluiza.com.br/bebe-conforto-burigotto-touring-se-cinza-para-criancas-ate-13kg-base-de-cadeira-para-auto/p/209011100/bb/beco/"
+            }
+        ],
+        "warning": null,
+        "selected_sku": "209011100",
+        "partial_attributes": null
+    }
+}

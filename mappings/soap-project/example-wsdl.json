@@ -1,0 +1,13 @@
+{
+   "request":{
+      "urlPath":"/SigepMasterJPA/AtendeClienteService/AtendeCliente.wsdl",
+      "method":"GET"
+   },
+   "response":{
+      "status":200,
+      "headers":{
+         "Content-Type":"application/xml;charset=UTF-8"
+      },
+      "bodyFileName":"/soap-project/response-wsdl.xml"
+   }
+}

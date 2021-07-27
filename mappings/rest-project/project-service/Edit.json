@@ -1,0 +1,19 @@
+{
+	"request": {
+		"method": "PUT",
+		"urlPattern": "/service/05"
+	},
+	"response": {
+		"status": 200,
+		"jsonBody": {
+			"pay" : true,
+			"data" : {
+				"name": "User Name",
+				"origin": "Local"
+			}
+		},
+		"headers": {
+			"Content-Type": "application/json"
+		}
+	}
+}
